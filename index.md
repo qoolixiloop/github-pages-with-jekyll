@@ -1,3 +1,6 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+## About this site
+Following github lab issue 2
+
+
